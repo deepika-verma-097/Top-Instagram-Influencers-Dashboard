@@ -115,6 +115,8 @@ This analysis helps:
 
 4. Make data-driven decisions in influencer selection and campaign planning.
 
+## 🚀 Live Demo
+[Click Here to View Dashboard](https://insta-influencer-dashboard.netlify.app/)
 
 
 ![Dashboard Preview](https://github.com/deepika-verma-097/Top-Instagram-Influencers-Dashboard/blob/main/snapshot_of_dashboard.png)
