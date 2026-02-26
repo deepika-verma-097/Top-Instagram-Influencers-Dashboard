@@ -6,5 +6,4 @@ You can view the live dashboard here:
 
 ---
 
-If the link does not open, copy and paste this URL in your browser:
-https://insta-influencer-dashboard.netlify.app/
+
