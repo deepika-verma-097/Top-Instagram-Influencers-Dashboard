@@ -117,4 +117,4 @@ This analysis helps:
 
 
 
-![Dashboard Preview](https://insta-influencer-dashboard.netlify.app/)
+![Dashboard Preview](https://github.com/deepika-verma-097/Top-Instagram-Influencers-Dashboard/blob/main/snapshot_of_dashboard.png)
