@@ -114,3 +114,7 @@ This analysis helps:
 3. Social media strategists
 
 4. Make data-driven decisions in influencer selection and campaign planning.
+
+
+
+![Dashboard Preview](https://insta-influencer-dashboard.netlify.app/)
