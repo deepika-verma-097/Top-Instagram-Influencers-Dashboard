@@ -4,102 +4,110 @@ This project analyzes the performance of top Instagram influencers using data an
 # Project Overview
 
 The dashboard provides actionable insights for brands to optimize influencer marketing strategies.
+
 ---
-🎯 Objectives
 
-Identify top influencers by influence score and engagement
+## 🎯 Objectives
 
-Analyze follower vs engagement correlation
+1. Identify top influencers by influence score and engagement
 
-Perform country-wise influencer analysis
+2. Analyze follower vs engagement correlation
 
-Detect growth in new post engagement
+3. Perform country-wise influencer analysis
 
-Highlight micro-influencers with strong ROI potential
+4. Detect growth in new post engagement
+
+5. Highlight micro-influencers with strong ROI potential
+
 ---
-🗂 Dataset Description
+## 🗂 Dataset Description
 
 The dataset contains:
 
-Rank
+1. Rank
 
-Influencer Username
+2. Influencer Username
 
-Influence Score
+3. Influence Score
 
-Posts
+4. Posts
 
-Followers
+5. Followers
 
-Average Likes
+6. Average Likes
 
-60-Day Engagement Rate
+7. 60-Day Engagement Rate
 
-New Post Average Likes
+8. New Post Average Likes
 
-Total Likes
+9. Total Likes
 
-Country
----
-🛠 Tools & Technologies
-
-Tableau Desktop
-
-Excel
-
-Python (EDA)
-
-GitHub
----
-
-📊 Dashboard Features
-1️⃣ Executive Overview
-
-Total Influencers
-
-Total Followers
-
-Average Engagement Rate
-
-Top 10 Influencers
-
-2️⃣ Engagement Analysis
-
-Followers vs Engagement Scatter Plot
-
-Engagement Growth Tracking
-
-Post Efficiency Metrics
-
-3️⃣ Country Insights
-
-Influencer Distribution Map
-
-Country-wise Engagement Comparison
-
-Total Likes by Region
+10. Country
 
 ---
 
-📈 Key Insights
+## 🛠 Tools & Technologies
 
-High followers do not guarantee high engagement.
+1. Tableau Desktop
 
-Micro-influencers often outperform large influencers in engagement rate.
+2. Excel
 
-Engagement growth is a strong predictor of rising influence.
+3. Python (EDA)
 
-Country-level patterns impact marketing strategies.
+4. GitHub
+
 ---
 
-💡 Business Impact
+## 📊 Dashboard Features
+
+### 1️⃣ Executive Overview
+
+1. Total Influencers
+
+2. Total Followers
+
+3. Average Engagement Rate
+
+4. Top 10 Influencers
+
+### 2️⃣ Engagement Analysis
+
+1. Followers vs Engagement Scatter Plot
+
+2. Engagement Growth Tracking
+
+3. Post Efficiency Metrics
+
+### 3️⃣ Country Insights
+
+1. Influencer Distribution Map
+
+2. Country-wise Engagement Comparison
+
+3. Total Likes by Region
+
+---
+
+## 📈 Key Insights
+
+1. High followers do not guarantee high engagement.
+
+2. Micro-influencers often outperform large influencers in engagement rate.
+
+3. Engagement growth is a strong predictor of rising influence.
+
+4. Country-level patterns impact marketing strategies.
+
+---
+
+## 💡 Business Impact
 
 This analysis helps:
 
-Marketing agencies
+1. Marketing agencies
 
-Brand managers
+2. Brand managers
 
-Social media strategists
+3. Social media strategists
 
-Make data-driven decisions in influencer selection and campaign planning.
+4. Make data-driven decisions in influencer selection and campaign planning.
